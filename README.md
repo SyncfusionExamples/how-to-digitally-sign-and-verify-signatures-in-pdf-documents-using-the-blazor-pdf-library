@@ -1,5 +1,5 @@
 # How to Digitally Sign and Verify Signatures in PDF documents using the Blazor PDF Library
-A quick start Blazor project that shows how to digitally sign the PDF documents and verify the existing signatures in the PDF document using Syncfusion PDF Library.
+A quick start Blazor project that shows how to digitally sign the PDF documents and verify the existing signatures in the PDF document using Syncfusion&reg; PDF Library.
 
 Example: https://blazor.syncfusion.com/demos/pdf/digital-signature?theme=fluent
 
